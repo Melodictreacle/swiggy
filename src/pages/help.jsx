@@ -2,7 +2,7 @@ import Navbar1 from "../components/navbar";
 
 function Help() {
     return (<div>
-        <div className='px-20'>
+        <div className='px-20 shadow-lg'>
             <Navbar1></Navbar1>
         </div>
     </div>)

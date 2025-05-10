@@ -58,7 +58,7 @@ function Search() {
         </div>
         <div className="px-50">
             <div className="p-5 flex justify-center gap-5 pt-10">
-                <input type="text" placeholder="Search.." className="w-full h-10 border-2 rounded   placeholder:text-1xl font-bold p-5 "></input>
+                <input type="text" placeholder="Search.." className="w-full h-10 border-2 rounded   placeholder:text-1xl  font-bold p-5 "></input>
                 <button className="w-10 h-10 hover:cursor-pointer">Search</button>
             </div>
             <div className="p-5 w-full  font-bold text-2xl">
